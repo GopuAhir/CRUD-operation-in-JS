@@ -1,0 +1,14 @@
+.my-table {
+    border-collapse: collapse;
+    font-family: Arial;
+}
+
+.my-table th {
+    background-color: #ccc;
+    font-weight: bold;
+    text-align: center;
+}
+ 
+.my-table button:hover {
+    background-color: #d61616;
+  }
